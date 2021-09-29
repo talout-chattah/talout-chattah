@@ -15,7 +15,7 @@ A  Computer science student in USDB.I use Tools listed in the Toolbox but I also
 ---
 
 ## you can contact me by :
-<a href="https://www.facebook.com/profile.php?id=100073250167767" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook Logo" width="40" height="40"/> </a>
+<a href="https://www.facebook.com/profile.php?id=100073250167767" target="_blank" ><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook Logo" width="40" height="40"/> </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talout-chattah&show_icons=true&theme=merko)
 
