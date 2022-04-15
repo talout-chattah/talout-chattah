@@ -2,9 +2,7 @@
 ---
 
 ## I'm Talout Chattah 
-A  Computer science student in USDB.I use Tools listed in the Toolbox but I also know a bit about Cyber Security and Artificial Inteligence.
-- I really enjoy Algorithms and Mathematics 
-- I'm currently learning Cyber Security 
+A  Computer science student. I use Tools listed in the Toolbox. 
 
 ---
 
