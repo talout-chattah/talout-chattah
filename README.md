@@ -13,7 +13,7 @@ A  Computer science student. I use Tools listed in the Toolbox.
 ---
 
 ## you can contact me by :
-<a href="https://www.facebook.com/profile.php?id=100073250167767" target="_blank" ><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook Logo" width="40" height="40"/> </a><a href="https://www.instagram.com/talout_chattah/" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram Logo" width="40" height="40"/> </a><a href="https://www.linkedin.com/in/talout-chattah-a67a8420b/" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="40" height="40"/> </a>
+<a href="https://www.linkedin.com/in/talout-chattah-a67a8420b/" target="_blank" ><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn Logo" width="40" height="40"/> </a>
 
 ---
 
